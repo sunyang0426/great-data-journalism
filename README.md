@@ -16,3 +16,6 @@ https://github.com/datadesk/california-h2a-visas-analysis/blob/master/04_analysi
 
 High school homicide analysis
 https://github.com/datadesk/highschool-homicide-analysis/blob/master/notebook.ipynb
+
+NYC 311 complaints and demographic analysis — 2010 to 2018
+https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification
