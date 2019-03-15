@@ -14,3 +14,5 @@ https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis/blob/master/note
 California H-2A visas analysis
 https://github.com/datadesk/california-h2a-visas-analysis/blob/master/04_analysis.ipynb
 
+High school homicide analysis
+https://github.com/datadesk/highschool-homicide-analysis/blob/master/notebook.ipynb
