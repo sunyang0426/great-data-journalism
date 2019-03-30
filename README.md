@@ -19,3 +19,7 @@ https://github.com/datadesk/highschool-homicide-analysis/blob/master/notebook.ip
 
 NYC 311 complaints and demographic analysis — 2010 to 2018
 https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification
+
+How journalists can use open source satellite datafor investigative report
+https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90
+
