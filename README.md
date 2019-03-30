@@ -23,3 +23,5 @@ https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification
 How journalists can use open source satellite datafor investigative report
 https://towardsdatascience.com/how-to-use-open-source-satellite-data-for-your-investigative-reporting-d662cb1f9f90
 
+Use Pandana,an open source Python tool to measure a city's pedestrian walkability
+https://towardsdatascience.com/measuring-pedestrian-accessibility-97900f9e4d56
